@@ -70,7 +70,7 @@ p <- p %>% add_trace(y = data$machine.learning,
                      name = "machine learning") 
 
 p <- p %>% add_trace(y = data$natural.language.processing, 
-                     name = "natural languge processing") 
+                     name = "natural language processing") 
 
 p <- p %>% layout(xaxis = x, 
                   yaxis = y, 
